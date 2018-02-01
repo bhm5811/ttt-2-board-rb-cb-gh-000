@@ -1,5 +1,4 @@
 def greeting
-  phrase = "hello world"
+  puts "hello world"
 end
 
-greeting
